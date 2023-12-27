@@ -1,0 +1,3 @@
+flag1 -> d86b9ad71ca887f4dd1dac86ba1c4dfc
+flag2 -> d8ce56398c88e1b4d9e5f83e64c79098
+root flag -> 821ae63dbe0c573eff8b69d451fb21bc
